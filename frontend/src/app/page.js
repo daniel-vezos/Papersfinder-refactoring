@@ -7,7 +7,7 @@ export default function Home() {
     <>
       <Header />
       <div className="flex flex-col items-center justify-center min-h-screen pb-96">
-        <h1 className="text-5xl font-syne mb-6">PAPERSFINDER</h1>
+        <h1 className="text-4xl font-syne mb-6">PAPERSFINDER</h1>
         <SearchBar />
       </div>
     </>
